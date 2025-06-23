@@ -1,0 +1,1 @@
+/home/neo/rust-lang/07_managing_projects/modules/target/debug/modules: /home/neo/rust-lang/07_managing_projects/modules/src/garden/vegetables.rs /home/neo/rust-lang/07_managing_projects/modules/src/garden.rs /home/neo/rust-lang/07_managing_projects/modules/src/main.rs
