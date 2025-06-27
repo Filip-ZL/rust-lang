@@ -145,8 +145,6 @@ fn assignuser(departments: &mut HashMap<String, Vec<String>>) {
             }
         }
         
-        
-
         println!("{}", "User added succesfully".green());
         break 'main;
     }
