@@ -1,0 +1,1 @@
+/home/neo/rust-lang/10_generic_types_traits_lifetimes/traits/blog/target/debug/blog: /home/neo/rust-lang/10_generic_types_traits_lifetimes/traits/aggregator/src/lib.rs /home/neo/rust-lang/10_generic_types_traits_lifetimes/traits/blog/src/main.rs
