@@ -1,0 +1,1 @@
+/home/neo/rust-lang/13_iterators_closures/iterators/target/debug/iterators: /home/neo/rust-lang/13_iterators_closures/iterators/src/lib.rs /home/neo/rust-lang/13_iterators_closures/iterators/src/main.rs
