@@ -1,0 +1,1 @@
+Result<MutexGuard<'_, {integer}>, PoisonError<MutexGuard<'_, {integer}>>>
