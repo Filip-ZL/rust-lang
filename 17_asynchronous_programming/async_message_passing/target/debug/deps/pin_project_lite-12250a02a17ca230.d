@@ -1,0 +1,7 @@
+/home/neo/rust-lang/17_asynchronous_programming/async_message_passing/target/debug/deps/libpin_project_lite-12250a02a17ca230.rmeta: /home/neo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs
+
+/home/neo/rust-lang/17_asynchronous_programming/async_message_passing/target/debug/deps/libpin_project_lite-12250a02a17ca230.rlib: /home/neo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs
+
+/home/neo/rust-lang/17_asynchronous_programming/async_message_passing/target/debug/deps/pin_project_lite-12250a02a17ca230.d: /home/neo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs
+
+/home/neo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pin-project-lite-0.2.16/src/lib.rs:

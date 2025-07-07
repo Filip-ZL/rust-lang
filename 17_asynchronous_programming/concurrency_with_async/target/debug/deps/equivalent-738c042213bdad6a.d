@@ -1,0 +1,7 @@
+/home/neo/rust-lang/17_asynchronous_programming/concurrency_with_async/target/debug/deps/libequivalent-738c042213bdad6a.rmeta: /home/neo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs
+
+/home/neo/rust-lang/17_asynchronous_programming/concurrency_with_async/target/debug/deps/libequivalent-738c042213bdad6a.rlib: /home/neo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs
+
+/home/neo/rust-lang/17_asynchronous_programming/concurrency_with_async/target/debug/deps/equivalent-738c042213bdad6a.d: /home/neo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs
+
+/home/neo/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/equivalent-1.0.2/src/lib.rs:
