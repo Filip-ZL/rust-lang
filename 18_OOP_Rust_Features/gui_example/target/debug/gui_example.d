@@ -1,0 +1,1 @@
+/home/neo/rust-lang/18_OOP_Rust_Features/gui_example/target/debug/gui_example: /home/neo/rust-lang/18_OOP_Rust_Features/gui_example/src/lib.rs /home/neo/rust-lang/18_OOP_Rust_Features/gui_example/src/main.rs
