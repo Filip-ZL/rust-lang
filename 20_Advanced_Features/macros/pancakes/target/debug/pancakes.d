@@ -1,0 +1,1 @@
+/home/neo/rust-lang/20_Advanced_Features/macros/pancakes/target/debug/pancakes: /home/neo/rust-lang/20_Advanced_Features/macros/hello_macro/hello_macro_derive/src/lib.rs /home/neo/rust-lang/20_Advanced_Features/macros/hello_macro/src/lib.rs /home/neo/rust-lang/20_Advanced_Features/macros/pancakes/src/main.rs

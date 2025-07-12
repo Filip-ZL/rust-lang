@@ -1,0 +1,1 @@
+/home/neo/rust-lang/20_Advanced_Features/advanced_traits/target/debug/advanced_traits: /home/neo/rust-lang/20_Advanced_Features/advanced_traits/src/lib.rs /home/neo/rust-lang/20_Advanced_Features/advanced_traits/src/main.rs
